@@ -166,7 +166,7 @@ h1 {
   width:100px;
   height: 30px;
   background: orange;
-  color: #fff;
+  color: white;
   font-size: 12px;
   line-height: 30px;
   margin:25px auto;
@@ -229,7 +229,7 @@ h1 {
   width:220px;
   height:40px;
   border: 1px solid #fff;
-  color: #fff;
+  color: white;
   line-height: 40px;
   cursor: pointer;
   margin:16px auto;
