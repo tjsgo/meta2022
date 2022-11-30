@@ -27,8 +27,7 @@ h1 {
   font-size: 18px;
   font-weight: bold;
 }
-.page_img {
-  width: 100%;
+.page_img{
   position: relative;
   top: 100px;
   left: 200px;
