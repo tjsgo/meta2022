@@ -27,6 +27,13 @@ h1 {
   font-size: 18px;
   font-weight: bold;
 }
+.page_image {
+  width: 100%;
+  position: relative;
+  top: 100px;
+  left: 200px;
+}
+
 /* --- */
 
 .result{
