@@ -42,7 +42,7 @@ h1 {
 
 .intro_bg{
   background-image: url("image/main.jpg");
-  width: 100%;
+  width: 1000px;
   height: 714px;
   object-fit: cover;
 }
