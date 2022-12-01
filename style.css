@@ -236,6 +236,9 @@ h1 {
   cursor: pointer;
   margin:16px auto;
 }
+.more2 > a{
+  color: white;
+}
 
 .footer{
   display: flex;
