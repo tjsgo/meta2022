@@ -14,6 +14,13 @@
 ### 🍜 사용 언어 🍜 <br/>
 ![htmlcss](https://user-images.githubusercontent.com/60089838/204977844-c973d823-3884-4cc8-910e-3df86bbf826f.jpg)
 
-### 🍜 와이어프레임 🍜
-![와이어프레임](https://user-images.githubusercontent.com/60089838/204981113-52fdd850-c0b3-4e71-9763-3ba6e00e1b2c.jpg)
-![메뉴상세설명](https://user-images.githubusercontent.com/60089838/204981127-bf06978f-5582-4fa1-add7-5d0d80e77a29.jpg)
+### 🍜 와이어프레임 🍜 <br/>
+![슬라이드1](https://user-images.githubusercontent.com/60089838/208230432-f5ab94c5-2f23-4e53-942e-7799d32a8469.JPG)
+![슬라이드2](https://user-images.githubusercontent.com/60089838/208230439-a64d13a4-7352-4153-aeca-71b6eb0a0ac5.JPG)
+
+### 🍜 프로그램 기능 소개 🍜
+![슬라이드6](https://user-images.githubusercontent.com/60089838/208230458-4383844d-47fb-4b5c-b789-e7822002b984.JPG)
+![슬라이드7](https://user-images.githubusercontent.com/60089838/208230459-f0620696-43ff-4eac-b313-38de2a116b32.JPG)
+![슬라이드8](https://user-images.githubusercontent.com/60089838/208230461-946d0529-dfb8-4f92-94d7-a971d5ece458.JPG)
+![슬라이드4](https://user-images.githubusercontent.com/60089838/208230462-ba79170d-6da2-4e8b-a7c2-f96ce339003f.JPG)
+![슬라이드5](https://user-images.githubusercontent.com/60089838/208230465-1b8b3d9c-bc22-4ee4-84da-ecce0b8c63bd.JPG)
